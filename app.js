@@ -46,7 +46,7 @@ gsap.to("#main", {
     start: "top -25%",
     end: "top -70%",
     scrub: 2, // it decides how much time it will take i
-    markers: true,
+    // markers: true,
   },
 });
 
@@ -60,5 +60,5 @@ scrollTrigger:{
   start:"top 60%",
   end:"top 48%",
   scrub:3,
-  markers:true,
+  // markers:true,
 }});
